@@ -1,3 +1,7 @@
+function openWindow(){
+    window.open("planets.html", "_parent");
+}
+
 let stars = document.getElementById('stars');
         let moon = document.getElementById('moon');
         let mountain = document.getElementById('mountain');
@@ -13,3 +17,4 @@ let stars = document.getElementById('stars');
             text.style.marginRight = value* 5 + 'px';
             btn.style.marginTop = value *2 + 'px';
         })
+
