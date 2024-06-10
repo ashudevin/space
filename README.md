@@ -1,2 +1,2 @@
 # space
-Its a space website.
+A basic space website with Parallex Effect.
